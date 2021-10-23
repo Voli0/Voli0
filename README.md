@@ -1,2 +1,2 @@
-![alt text](https://github.com/Voli0/Voli0/blob/main/Overview.svg)
-![alt text](https://github.com/Voli0/Voli0/blob/main/Code.svg)
+![alt text](https://github.com/Voli0/Voli0/blob/main/overview.svg)
+![alt text](https://github.com/Voli0/Voli0/blob/main/languages.svg)
