@@ -1,2 +1,2 @@
-![alt text](https://unit.fun/github/global.svg)
-![alt text](https://unit.fun/github/proficiency.svg)
+![alt text](https://unit.fun/github/general.svg)
+![alt text](https://unit.fun/github/specific.svg)
