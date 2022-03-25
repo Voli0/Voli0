@@ -1,2 +1,2 @@
-![alt text](https://unit.fun/github/general.svg)
-![alt text](https://unit.fun/github/dialects.svg)
+![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
